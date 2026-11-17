@@ -1,4 +1,7 @@
 {
-  "wisp": "https://wisp.iop.xin",
-  "admin": "https://wisp.iop.xin"
+  "schema": 2,
+  "wisp":  { "url": "https://wisp.iop.xin", "enabled": true },
+  "admin": { "url": "", "enabled": false },
+  "app":   { "min_version": 0, "notice": "" },
+  "updated_at": "2026-11-18T09:00:00+08:00"
 }
